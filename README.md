@@ -58,12 +58,12 @@
 
 | Платформа | Прямая загрузка | Версия |
 | --- | --- | --- |
-| Android | **[Скачать APK](https://github.com/hapvpnanalytics-netizen/mostik-vpn/releases/download/2026.09.16-android-051/mostik-vpn-051.apk)** | 3.4.10 (51) |
-| Windows x64 | **[Скачать установщик EXE](https://github.com/hapvpnanalytics-netizen/mostik-vpn/releases/download/2026.09.16/mostik-vpn-0.1.25-x64-setup.exe)** | 0.1.25 |
+| Android | **[Скачать APK](https://github.com/hapvpnanalytics-netizen/mostik-vpn/releases/download/2026.09.21-android-052/mostik-vpn-052.apk)** | 3.4.11 (52) |
+| Windows x64 | **[Скачать установщик EXE](https://github.com/hapvpnanalytics-netizen/mostik-vpn/releases/download/2026.09.19-windows-0.1.26/mostik-vpn-0.1.26-x64-setup.exe)** | 0.1.26 |
 
 Для скачивания аккаунт GitHub не нужен.
 
-[Все выпуски](https://github.com/hapvpnanalytics-netizen/mostik-vpn/releases) · [SHA-256 Android](https://github.com/hapvpnanalytics-netizen/mostik-vpn/releases/download/2026.09.16-android-051/SHA256SUMS.txt) · [SHA-256 Windows](https://github.com/hapvpnanalytics-netizen/mostik-vpn/releases/download/2026.09.16/SHA256SUMS.txt)
+[Все выпуски](https://github.com/hapvpnanalytics-netizen/mostik-vpn/releases) · [SHA-256 Android](https://github.com/hapvpnanalytics-netizen/mostik-vpn/releases/download/2026.09.21-android-052/mostik-vpn-052.apk.sha256) · [SHA-256 Windows](https://github.com/hapvpnanalytics-netizen/mostik-vpn/releases/download/2026.09.19-windows-0.1.26/mostik-vpn-0.1.26-x64-setup.exe.sha256)
 
 ## Первое подключение
 
